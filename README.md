@@ -1,2 +1,2 @@
 # e-portfolio
-A e-portfolio for me
+This is my e-portfolio.
